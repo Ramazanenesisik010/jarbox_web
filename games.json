@@ -3,8 +3,13 @@
 
       {
          "name":"Space Game",
-         "jar_path":"https://ramazanenesisik010.github.io/jarbox_web/space_game.jar",
-         "launcher":""
+         "jar_path":"https://ramazanenesisik010.github.io/jarbox_web/games/space_game.jar",
+         "launcher":"com.emirenesgames.game.Main"
+      },
+      {
+         "name":"XP Simulator",
+         "jar_path":"https://ramazanenesisik010.github.io/jarbox_web/games/xp_simulator.jar",
+         "launcher":"com.emirenesgames.xpsimulator.XpSimulator"
       }
 
    ]
