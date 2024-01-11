@@ -10,6 +10,11 @@
          "name":"XP Simulator",
          "jar_path":"https://ramazanenesisik010.github.io/jarbox_web/games/xp_simulator.jar",
          "launcher":"com.emirenesgames.xpsimulator.XpSimulator"
+      },
+      {
+         "name":"Vista Simulator",
+         "jar_path":"https://ramazanenesisik010.github.io/jarbox_web/games/vista_simulator.jar",
+         "launcher":"com.emirenesgames.engine.Engine"
       }
 
    ]
